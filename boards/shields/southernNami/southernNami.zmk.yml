@@ -1,0 +1,8 @@
+file_format: "1"
+id: southern_nami
+name: Southern // NAMI
+type: shield
+url: https://github.com/MogmaProducts/southern-nami-zmk-module
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

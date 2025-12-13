@@ -1,0 +1,7 @@
+if SOUTHERN_NAMI
+config ZMK_KEYBOARD_NAME
+    default "Southern // NAMI"
+
+config SPI
+    default y
+endif

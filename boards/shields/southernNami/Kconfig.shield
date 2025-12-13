@@ -1,0 +1,2 @@
+config SOUTHERN_NAMI
+    def_bool $(shields_list_contains,southernNami)
