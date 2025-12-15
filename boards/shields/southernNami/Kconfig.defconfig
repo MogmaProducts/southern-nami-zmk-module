@@ -2,6 +2,10 @@ if SOUTHERN_NAMI
 config ZMK_KEYBOARD_NAME
     default "Southern // NAMI"
 
+config ZMK_STUDIO
+    default y
+
 config SPI
     default y
+
 endif
