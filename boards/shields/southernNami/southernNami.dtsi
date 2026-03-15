@@ -101,7 +101,7 @@
             , <&key_physical_attrs 100 100 1075  100       0     0     0>  // 21
             , <&key_physical_attrs 100 100 1175  100       0     0     0>  // 22
             , <&key_physical_attrs 100 100 1275  100       0     0     0>  // 23
-            , <&key_physical_attrs 225 200 1375    0       0     0     0>  // 24
+            , <&key_physical_attrs 225 200 1475    0       0     0     0>  // 24
             // Row 2
             , <&key_physical_attrs 225 100    0  200       0     0     0>  // 25
             , <&key_physical_attrs 100 100  225  200       0     0     0>  // 26
