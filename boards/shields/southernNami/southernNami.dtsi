@@ -88,7 +88,7 @@
             , <&key_physical_attrs 100 100 1150    0       0     0     0>  // 9
             , <&key_physical_attrs 100 100 1250    0       0     0     0>  // 10
             , <&key_physical_attrs 100 100 1350    0       0     0     0>  // 11
-            , <&key_physical_attrs 125 200 1475    0       0     0     0>  // 12
+            , <&key_physical_attrs 150 200 1475    0       0     0     0>  // 12
             // Row 1
             , <&key_physical_attrs 175 100    0  100       0     0     0>  // 13
             , <&key_physical_attrs 100 100  175  100       0     0     0>  // 14
